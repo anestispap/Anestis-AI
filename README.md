@@ -2,11 +2,14 @@
 AI adaptive learning
 # Project Title
 
-Adaptive learning in secondary education
+AI enhanced Adaptive learning in primary education
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Educational interventions at an early stage determine the future og the pupils. 
+Personalized and adaptive learning/teaching material and approaches suitable for the learning profile of each pupil can provide meaningful practices. 
+AI and Deep learning can enhance this process.
+
 
 
 ## Background
