@@ -7,7 +7,7 @@ AI enhanced Adaptive learning in primary education
 ## Summary
 
 Educational interventions at an early stage determine the future of the pupils. 
-Personalized and adaptive learning/teaching material and approaches suitable for the learning profile of each pupil can provide meaningful practices. 
+Personalized and adaptive learning/teaching material and technics suitable for the learning profile of each pupil can provide meaningful practices. 
 AI and Deep learning can enhance this process.
 
 
